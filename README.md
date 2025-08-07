@@ -1,1 +1,4 @@
-# codewave1.0-EthicalLords
+Virtual Travel Assistant
+
+
+This web-based project is a **Virtual Travel Assistant** application designed to help users effortlessly create personalized, day-by-day travel itineraries. By simply entering their destination, travel dates, interests, and budget, users receive tailored recommendations for top attractions, unique hidden spots, and dining options. The assistant also provides local travel tips including transport and weather advice. Users can review, modify, and export their complete travel plans as PDFs, making trip planning fast, customized, and stress-free. The system leverages PHP and SQL for robust data management and can integrate AI and external travel data APIs to enhance recommendations and user experience. This tool is ideal for travelers seeking personalized, efficient, and easy-to-manage trip planning solutions.
